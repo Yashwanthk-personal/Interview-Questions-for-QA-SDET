@@ -1,0 +1,17 @@
+Why string is immutable in java?
+- Java maintains a string pool, which is a pool of unique string literals. By making strings immutable, multiple references can point to the
+same string literal, reducing memory consumption.
+- Immutable objects can be easily cached and shared, leading to better memory utilization. Since strings are widely used in Java applications,
+making them immutable helps in reducing memory footprint.
+- Immutable objects are inherently thread-safe because they cannot be modified once created. This means that multiple threads can safely 
+access and share strings without the need for additional synchronization mechanisms.
+- Strings are often used to store sensitive information like passwords or cryptographic keys. By making strings immutable, the risk of 
+inadvertently modifying and exposing such sensitive data is reduced. Immutable strings also help in preventing certain types of security
+attacks, such as string substitution.
+- Immutable strings promote a clear and consistent API design. Developers can rely on the fact that once a string object is created, its
+value will not change. This simplifies reasoning about code behavior and helps prevent unexpected bugs.
+- Immutable strings enable efficient hashing and caching mechanisms.
+
+Which is thread-safe StringBuilder or StringBuffer?
+- StringBuffer is thread-safe and synchronized whereas StringBuilder is not. That's why StringBuilder is faster than StringBuffer.
+The string concatenation operator (+) internally uses StringBuffer or StringBuilder class.

@@ -1,0 +1,40 @@
+Scrum is an agile project management framework that helps teams structure and manage their work through a set of values, principles,
+and practices. So let's understand a few SCRUM Terms
+
+✅ Scrum: a framework to support teams in complex product development. Scrum consists of Scrum Teams and their associated roles, events,
+artifacts, and rules, as defined in the Scrum Guide.
+
+✅ Scrum Board: a physical board to visualize information for and by the Scrum Team, often used to manage Sprint Backlog. Scrum boards
+are an optional implementation within Scrum to make information visible.
+
+✅ Scrum Team: a self-organizing team consisting of a Product Owner, Development Team and Scrum Master.
+
+✅ Sprint: time-boxed event of one month or less, that serves as a container for the other Scrum events and activities. Sprints are done
+consecutively, without intermediate gaps.
+
+✅ Sprint Backlog: an overview of the development work to realize Sprint’s goal, typically a forecast of functionality and the work 
+needed to deliver that functionality. Managed by the Development Team.
+
+✅ Sprint Planning: time-boxed event of 8 hours, or less, to start a Sprint. It serves for the Scrum Team to inspect the work from the
+Product Backlog that’s most valuable to be done next and design that work into the Sprint backlog.
+
+✅ Sprint Retrospective: time-boxed event of 2 hours, or less, to end a Sprint. It serves for the Scrum Team to inspect the past Sprint
+and plan for improvements to be enacted during the next Sprint.
+
+✅ Sprint Review: time-boxed event of 2 hours, or less, to conclude the development work of a Sprint. It serves the Scrum Team and the 
+stakeholders to inspect the Increment of the product resulting from the Sprint and assess the impact of the work performed on overall 
+progress.
+
+✅ Velocity: an optional, but often used, indication of the average amount of Product Backlog turned into an increment of the product
+during a Sprint by a Scrum Team, tracked by the development team for use within the Scrum Team.
+
+✅ Technical Debt: the typically unpredictable overhead of maintaining the product, often caused by less-than-ideal design decisions,
+contributing to the total cost of ownership.
+
+✅ Acceptance Criteria: Details that indicate the scope of a user story and help the team and product owner determine done-ness.
+
+✅ Burn-down Chart: a chart that shows the amount of work that is thought to remain in a backlog. Time is shown on the horizontal axis
+and work remains on the vertical axis. The amount of work may be assessed in any of several ways such as user story points or task hours. Work remaining in Sprint Backlogs may be communicated by means of a burn-down chart.
+
+✅ Burnup Chart: a chart that shows the amount of work that has been completed. Time is shown on the horizontal axis and work is 
+completed on the vertical axis

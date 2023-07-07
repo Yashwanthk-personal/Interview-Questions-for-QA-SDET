@@ -1,0 +1,32 @@
+Difference between 𝐓𝐞𝐬𝐭 𝐩𝐥𝐚𝐧 & 𝐓𝐞𝐬𝐭 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲?
+
+𝑻𝒆𝒔𝒕 𝑷𝒍𝒂𝒏:
+A test plan provides a roadmap for the testing team with a detailed document that outlines the approach, objectives, scope, and 
+schedule of testing activities for a specific project or release. The key components of a test plan include:
+
+1. 𝐓𝐞𝐬𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬: Clearly defined goals and objectives of the testing effort.
+2. 𝐓𝐞𝐬𝐭 𝐒𝐜𝐨𝐩𝐞: The features, functions, and modules of the software that will be tested.
+3. 𝐓𝐞𝐬𝐭 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐞: The timeline and milestones for executing the testing activities.
+4. 𝐓𝐞𝐬𝐭 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐚𝐛𝐥𝐞𝐬: The documents, reports, and artifacts to be produced during testing.
+5. 𝐓𝐞𝐬𝐭 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭: The hardware, software, and network setup required for testing.
+6. 𝐓𝐞𝐬𝐭 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡: The overall strategy and methodologies to be followed during testing.
+7. 𝐓𝐞𝐬𝐭 𝐂𝐚𝐬𝐞𝐬: The specific test cases or scenarios to be executed.
+8. 𝐓𝐞𝐬𝐭 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬: The roles, responsibilities, and skills of the testing team members.
+9. 𝐑𝐢𝐬𝐤 𝐀𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭: Identification and evaluation of potential risks and mitigation strategies.
+10. 𝐄𝐧𝐭𝐫𝐲 𝐚𝐧𝐝 𝐄𝐱𝐢𝐭 𝐂𝐫𝐢𝐭𝐞𝐫𝐢𝐚: The conditions for initiating and concluding the testing process.
+
+𝑻𝒆𝒔𝒕 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒚:
+A test strategy is a high-level document that defines the overall approach and guidelines for testing a project or product. 
+The main elements of a test strategy include:
+
+1. 𝐓𝐞𝐬𝐭 𝐋𝐞𝐯𝐞𝐥𝐬: The different levels of testing (e.g., unit testing, integration testing, system testing, etc.) to be performed.
+2. 𝐓𝐞𝐬𝐭 𝐓𝐲𝐩𝐞𝐬: The different types of testing (e.g., functional testing, performance testing, security testing, etc.) to be conducted.
+3. 𝐓𝐞𝐬𝐭 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬: The specific techniques and methods to be used during testing (e.g., black-box testing, white-box testing, regression testing, etc.).
+4. 𝐓𝐞𝐬𝐭 𝐓𝐨𝐨𝐥𝐬: The testing tools and software to be utilized for test automation, defect tracking, test management, etc.
+5. 𝐓𝐞𝐬𝐭 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬: The various environments required for testing (e.g., development, staging, production) and their configurations.
+6. 𝐓𝐞𝐬𝐭 𝐃𝐚𝐭𝐚 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: How test data will be generated, stored, and managed.
+7. 𝐃𝐞𝐟𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: The process for reporting, tracking, and resolving defects discovered during testing.
+8. 𝐓𝐞𝐬𝐭 𝐓𝐞𝐚𝐦: The roles, responsibilities, and skills required for the testing team.
+9. 𝐓𝐞𝐬𝐭 𝐌𝐞𝐭𝐫𝐢𝐜𝐬: The metrics to be collected and analyzed to assess the effectiveness and progress of testing.
+10. 𝐓𝐞𝐬𝐭 𝐑𝐢𝐬𝐤𝐬: Identification and assessment of risks associated with testing and the mitigation plans.
+Image: https://media.licdn.com/dms/image/D5622AQHxAXsWNo2z9g/feedshare-shrink_800/0/1688721619957?e=1691625600&v=beta&t=e5-t9hulzOk0DVmLVgTmvQUfU5jciLRpaaWfUpzfecs

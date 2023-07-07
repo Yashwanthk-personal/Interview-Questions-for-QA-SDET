@@ -1,0 +1,42 @@
+
+Q1) What is Client-Side validations?
+Ans: Client-side validation is the one that is basically done at the browser level where the user’s input is validated at the browser 
+itself with no involvement of the server.
+
+The client-side validation is usually done by script language such as JavaScript etc.
+
+Example - Form Validations.
+
+Q2) What do you understand by Server-side validation?
+Ans: Server-side validation occurs where the validation and processing of user requests require the response from the server. To 
+understand it more clearly, the user’s input is being sent to the server and validation is done using server-side scripting languages.
+
+After the validation process, feedback is sent back to the client in the form of a dynamically generated web page.
+
+When compared to the Client-Side validation process, the Server-side validation process is more secure because here application is
+protected against malicious attacks and users can easily bypass client-side scripting language.
+
+Q3) What is a Proxy server?
+Ans: The proxy server is a server that acts as an intermediary or is the one that lies between the client and the main server.
+
+The communication between the main server and client-server is done through a proxy server as the client request of any connection, file,
+resources from the main server is sent through a proxy server and again the response from the main server or local cached memory to 
+client-server is done through the proxy server.
+
+Q4) What if an organization's growth is so rapid that standard testing procedures are no longer feasible? What should you do in such a 
+situation?
+
+Ans: This is a very prevalent issue in the software industry, especially with the new technologies that are being used in product 
+development. In this case, there is no simple answer; however, you could:
+
+- Hire people who are good at what they do.
+
+- Quality issues should be ‘fiercely prioritized' by management, with a constant focus on the client.
+
+- Everyone in the company should understand what the term "quality" implies to the end-user.
+
+Q5) What does the term ‘quality' mean when testing?
+
+Ans: Quality in testing refers to the degree to which a product meets its intended requirements, as well as the degree to which it
+satisfies customer needs and expectations. It includes both the functional and non-functional aspects of the product. Quality assurance 
+is ensuring that the product meets its requirements, while quality control focuses on testing to ensure that the product meets its needs

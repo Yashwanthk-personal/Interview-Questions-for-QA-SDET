@@ -1,0 +1,69 @@
+ Online assessment: Hackerrank - 2 programs were asked. ( one related to theatre seat arrangement and one string related ).
+
+2. Technical L1 panel Questions:
+1. Tell about urself
+2. Framework structure
+3. Selenium web driver architecture
+4. Rest API Get and Post syntax with examples
+5. How to handle nested frames in different windows
+6. How to handle the dynamic web table in selenium
+7. How to get an xpath for dynamic web element in a webpage.
+8. Write the syntax for cucumber scenario
+9. Windows handling code for 5 windows using selenium 4
+10. Lambda expressions syntax
+11. Difference between String and Stringbuffer
+12. Difference between hashMap and hashtable
+13. Different errorcodes in RestApi
+14. TestNg annotations
+15. Difference between Test Plan and test strategy
+16. Java program to count the occurrence of vowels in a given string
+17. How to share knowledge across team members if I'm playing a role of team lead
+18. Bug lifecycle
+19. Agile cermenois
+20. Will you be able to work under pressure
+
+
+3. Technical L2 Panel:
+1. Tell about urself
+2. How to perform integration testing with an example
+3. Difference between inner join and outer join with some table examples.
+4. Write query - To select the second highest salary in the employee table
+5. Oops concept implementation in our framework with examples
+6.When do we perform regression testing and what is the use.
+7. What is the use of property file in framework
+8.TestNg XML structure
+9. Explain about web driver waits
+10.Syntax for retry the failed tests in testNg
+11. List some listeners and it's use
+12. Collections concepts with syntax
+13. Some mobile automation concepts and how it's different from normal web automation
+14. What do you mean by recursion
+15. Rest methods and it's difference.
+
+4.Techno Managerical Questions
+1. About urself
+2. Roles and responsibilities of my current project
+3. Types of framework which I have worked so far
+4. If i given a different work which I don't have experience, what I will do?
+5. Java program to reverse a sentence
+6. How to perform STLC in my project
+7. How to connect our automation to Oracle DB
+10. difference between Rest and SOAP
+11. Jenkins basics and how to integrate our project
+12. About Jira and how we r using it
+13. Bug lifecycle
+14. Some scenarios regarding high priority and severity related questions
+15. Will you be ok if we gave manual testing for some time.
+
+5.Managerial Fitment team round:
+1. Tell about urself
+2. Roles and responsibilities
+3. Will you comfortable to work in any languages like javascript or phython
+4. Some basic questions in DB regarding all DML and DDL
+5.Explain Oops concepts
+6. Agile methodology and how we r performing in current project
+7. Puzzle - 3 bulbs and 3 switches
+8. If i found a bug in release day,how do I approach
+9. If requirements are frequently changing , how do I approach
+10.Able to work as individual contributor?
+11. RCA , RTM related

@@ -1,0 +1,23 @@
+Use of Regular Expressions in Selenium Test Automation
+
+In terms of Automation regular expressions can be particularly useful when dealing with dynamic web elements, verifying text patterns, or extracting data from web pages. Regular expressions are powerful tools for pattern matching and manipulation of strings. Few most commonly used regular expressions in Java Selenium Test Automation are like.
+
+👉 Matching Text Patterns :-
+Regular expressions can be used to match specific patterns within strings, allowing you to verify expected text in web elements. E.g. to validate an email address entered in a form, you can use the regular expression like..
+
+➡ String emailPattern = "^\w+@[a-zA-Z_]+\.[a-zA-Z]{2,}$";
+
+👉 Handling Dynamic Elements :-
+We pages often contain dynamic elements with changing IDs, classes, or other attributes. Regular expressions can help identify and interact with such elements. E.g. if the ID of a button changes dynamically but always starts with "btn_submit_", you can locate it using a regular expression like..
+
+➡ String buttonIdPattern = "btn_submit_\\d+";
+
+👉 Extracting Data :-
+Regular expression also enables you to extract data from web pages, such as retrieving a specific portion of a URL or extraction numbers from a string. E.g. if you want to extract the numeric portion from a product price displayed as "$99.99", you can use regular expression like..
+
+➡ String pricePattern = "\\d+\\.\\d{2}";
+
+👉 Replacing Text :-
+Regular expression allow you to replace or modify specific portions of text. This can be useful when updating dynamic content or removing unwanted characters. E.g you want remove all non-alphanumeric characters from a string so for that you can use regular expression like..
+
+➡ String cleanText = originalText.replaceAll ("[^a-zA-Z0-9]", "");
